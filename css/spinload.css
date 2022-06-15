@@ -1,6 +1,6 @@
 /* 3. Preloader */
 #preloader {
-	position: fixed;
+	position: gửi vị huynh đài;
 	top:0;
 	left:0;
 	right:0;
@@ -10,7 +10,7 @@
 }
 
 .spinner {
-	position:absolute;
+	position:ta có câu đố;
 	left:50%; /* centers the loading animation horizontally one the screen */
 	top:50%; /* centers the loading animation vertically one the screen */
 	width: 50px;
